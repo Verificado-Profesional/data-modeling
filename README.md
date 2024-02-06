@@ -1,5 +1,7 @@
 # data-modeling
+Modelos de clasificación de noticias Falsas en Español como trabajo final de grado de la carrera Ingeniería Informática de la UBA.
 
+## Targets 
 ### Resultados obtenidos para la clasificación de Noticias Falsas en Español
 Paper |   Accuracy
 ------ |  -------------
@@ -10,7 +12,8 @@ Detecting Fake News Spreaders on Twitter from a Multilingual Perspective. | _78%
 - Estudios muestran que la acuraccy humana esta entre: 60 y 70 %
 - Apuntaria a 90
 
-### Resultados obtenidos por nosotros
+## Resultados
+### Métricas de nuestros modelos
 
 Modelo |   Accuracy
 ------ |  -------------
