@@ -20,3 +20,4 @@ Modelo |   Accuracy
 _Red Neuronal sin Vectorización_ | _42,5%_
 _Red Neuronal con Vectorización_ | _51,7%_
 _Small Bert Inglés_ | _81,6%_
+_Small Bert Sumbsabled_ | _79,2%_
