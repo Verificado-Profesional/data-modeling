@@ -16,9 +16,18 @@ RoBERTa large fake news detection spanish. | _77%_
 ## Resultados
 ### Métricas de nuestros modelos
 
+#### Dataset en Español
 Modelo |   Accuracy  |   Loss  |   F1  |   Precision  |   Recall
 ------ |  -------------|  ------|  ------|  ------|  ------
 _Red Neuronal sin Vectorización_ | _42,5%_ |  |  |  
 _Red Neuronal con Vectorización_ | _51,7%_ |  |  |  
 _Small Bert Inglés_ | _81,6%_ |  |  |  
 _Small Bert Subsampled_ | _79,2%_ |  |  |  
+
+#### Dataset de Chequeado
+Modelo |   Accuracy  |   Loss  |   F1  |   Precision  |   Recall |   ROC AUC
+------ |  -------------|  ------|  ------|  ------|  ------  |  ------  
+_Small Bert Inglés_ | _69.14%_ | 1.4007|  _46.36%_ | _53.85%_ |  _40.70%_
+_Spacy Bert Español_ | _82.44%_ | |  _66.40%_ | _66.40%_ |  _68.44%_
+
+
