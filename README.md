@@ -29,6 +29,7 @@ _Spacy Bert Spanish_ | _92.835%_ |  | _79.83%_ |  _84.14%_|  _78.925%_
 Modelo |   Accuracy  |   Loss  |   F1  |   Precision  |   Recall |   ROC AUC
 ------ |  -------------|  ------|  ------|  ------|  ------  |  ------  
 _Small Bert Inglés_ | _69.14%_ | 1.4007|  _46.36%_ | _53.85%_ |  _40.70%_
+_Small Bert Español_ | _70.029%_ ||  _78.00%_ | _78.00%_ |  _78.00%_
 _Spacy Bert Español_ | _82.44%_ | |  _66.40%_ | _66.40%_ |  _68.44%_
 
 #### Dataset Combinado
