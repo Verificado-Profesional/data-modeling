@@ -1,5 +1,5 @@
-# data-modeling
-Modelos de clasificación de noticias Falsas en Español como trabajo final de grado de la carrera Ingeniería Informática de la UBA.
+# Modelo de Deteccion de Noticias Falsas
+Resultados de los diversos modelos de clasificación de noticias falsas en español entrenados evaluando distintas metricas.
 
 ## Targets 
 ### Resultados obtenidos para la clasificación de Noticias Falsas en Español
@@ -9,9 +9,8 @@ Modelo para la detección de noticias falsas en formato texto en la red social T
 Detection of Fake News in a New Corpus for the Spanish Language (Posadas Duran) | _77,3%_
 Detecting Fake News Spreaders on Twitter from a Multilingual Perspective. | _78%_
 RoBERTa large fake news detection spanish. | _77%_
+Humans and Algorithms Detecting Fake News [Human Accuracy] | _67%_
 
-- Estudios muestran que la acuraccy humana esta entre: 60 y 70 %
-- Apuntaria a 90
 
 ## Resultados
 ### Métricas de nuestros modelos
