@@ -35,7 +35,7 @@ _Spacy Bert Español_ | __ | |  _66.40%_ | _66.40%_ |  _68.44%_
 #### Dataset Combinado
 Modelo |   Accuracy  |   Loss  |   F1  |   Precision  |   Recall |  
 ------ |  -------------|  ------|  ------|  ------|  ------ 
-_Small Bert Inglés_ | _81.08%_ | 0.41 | _84.76%_| _78.80%_ | _91.71%_ 
+_Small Bert Inglés_ | _82.17%_ | 0.41 | _80.84%_| _84.57%_ | _80.05%_ 
 _Spacy Bert Español_ | __ | |  _66.40%_ | _66.40%_ |  _68.44%_
 _Multi Bert_ | _81.23%_ | 0.49 | _84.34%_| _80.91%_ | _88.07%_ 
 _Multi Bert Uncased_ | _81.57%_ | | _76%_| _84%_ | _76%_
