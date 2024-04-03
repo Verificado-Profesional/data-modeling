@@ -38,7 +38,7 @@ Modelo |   Accuracy  |   Loss  |   F1  |   Precision  |   Recall |
 _Small Bert Inglés_ | _82.17%_ | 0.41 | _80.84%_| _84.57%_ | _80.05%_ 
 _Spacy Bert Español_ | __ | |  _66.40%_ | _66.40%_ |  _68.44%_
 _Multi Bert_ | _81.23%_ | 0.49 | _84.34%_| _80.91%_ | _88.07%_ 
-_Multi Bert Uncased_ | _81.57%_ | | _76%_| _84%_ | _76%_
+_Multi Bert Best_ | _82.81%_ | | _81.61%_| _84.94_ | _80.82%_
 _Spanish Bert_ | _82.55%_ | | _81.47%_| _83.71%_ | _80.75%_ 
 _Spanish Bert Best_ | _83.17%_ | | _81.94%_| _85.62%_ | _81.10%_ 
 _Spanish Bert Cased_ | _82.77%_ | | _81.78%_| _84.07%_ | _81.09%_ 
