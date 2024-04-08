@@ -15,8 +15,8 @@ Se seleccionaron distintas métricas para evaluar y comparar cada modelo. Los re
 
 
 ## Estructura de Carpetas
-1. [Veracity Classification](veracity_classification/):
+1. [Veracity Classification](veracity-classification/):
 Esta carpeta contiene los diferentes modelos entrenados para la deteccion de noticias falsas, junto con su evaluacion correspondiente.
 
-2. [Sentiment Analysis](sentiment_analysis/):
+2. [Sentiment Analysis](sentiment-analysis/):
 Esta carpeta contiene los diferentes modelos entrenados para el analisis de sentimientos, junto con su evaluacion correspondiente.
