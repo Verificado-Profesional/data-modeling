@@ -2,13 +2,14 @@
 Resultados de los diversos modelos de clasificación de sentimientos en español entrenados evaluando distintas metricas.
 
 ## Targets 
-### Resultados obtenidos para la clasificación de sentimientos en español
-Paper |   Accuracy
------- |  -------------
- Sentiment detection spanish |  _77,3%_
-
-
-
+### Resultados obtenidos por trabajos similares para la clasificación de sentimientos en español
+Paper | Accuracy  |   F1  |   Precision  |   Recall
+------ |  -------------|  ------|  ------|  ------
+ Análisis de Sentimientos Aplicados en Español (Naïve Bayes)| _80.0 %_  | _81.0%_ |   _80.0%_ | _81.0%_
+ Análisis de Sentimientos Aplicados en Español (BERT (BETO))| _83.0 %_  | _88.0%_ |   _85.0%_ | _91.0%_
+ Análisis de sentimientos y emociones en redes sociales usando ML| _88.0 %_  | _88.0%_ |   _88.0%_ | _88.0%
+### Capacidad de deteccion de sentimientos en personas
+* Human Accuracy :  80-85%
 
 ## Resultados
 ### Métricas de nuestros modelos
