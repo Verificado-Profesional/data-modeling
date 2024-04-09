@@ -22,4 +22,4 @@ _RNN TF_ | _77,07%_ | 0.5227 | _77%_ |   _77%_ | _77%_
 #### Clasificación Multiclase: [Negativo - Neutral - Positivo]
 Modelo |   Accuracy  |   Loss  |   F1  |   Precision  |   Recall |  
 ------ |  -------------|  ------|  ------|  ------|  ------ 
-_RNN TF_ | _55.17%_ | 0.71 | _52.84%_| _50.57%_ | _54.05%_ 
+_RNN TF_ | _53.28%_ |  1.27 | _53%_| _53%_ | _53%_ 
