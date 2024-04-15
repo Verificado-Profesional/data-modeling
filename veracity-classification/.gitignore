@@ -1,3 +1,5 @@
 /models/saved
 /spacy/docs
 /spacy/models
+/classes/models
+*.pth
