@@ -16,7 +16,7 @@ Paper | Accuracy  |   F1  |   Precision  |   Recall  | Data Size
 ------ |  -------------|  ------|  ------|  ------ |  -------
  Analisis de Sentimientos de Tweets en Español (SDG)| _75.94 %_  | _75.06%_ |   _76.53%_ | _74.51%_ | 9.476
  Analisis de Sentimientos de Tweets en Español (XGBoost)| _74.41 %_  | _74.08%_ |   _74.92%_ | _73.26%_ | 9.476
-
+ Comparacion de analisis de sentimientos en comunidades de habla hispana| _66,64% %_  |  |   | | 9.476
  
 ### Capacidad de deteccion de sentimientos en personas
 * Human Accuracy :  80-85%
