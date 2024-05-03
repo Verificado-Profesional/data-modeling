@@ -9,7 +9,15 @@ Paper | Accuracy  |   F1  |   Precision  |   Recall  | Data Size
 ------ |  -------------|  ------|  ------|  ------ |  ------
  Análisis de Sentimientos Aplicados a Opiniones en Español (Naïve Bayes)| _80.0 %_  | _81.0%_ |   _80.0%_ | _81.0%_ | 52.309
  Análisis de Sentimientos Aplicados a Opinione en Español (BERT (BETO))| _83.0 %_  | _88.0%_ |   _85.0%_ | _91.0%_ | 52.309
- Análisis de sentimientos y emociones en redes sociales usando ML| _88.0 %_  | _88.0%_ |   _88.0%_ | _88.0%_ | 10.573
+ A Spanish dataset for Targeted Sentiment Analysis of political headlines| _75.3%_  | _75.3%_ |    | | 2.438
+ Sentiment Analysis in Twitter for Spanish| _70.25%_  |  |   |  | 
+ Analisis de sentimientos en comunidades de habla hispana| _66,64%_  |  |   | | 9.476
+
+   
+
+
+
+
 
 #### Clasificación Multiclase: [Negativo - Neutral - Positivo]
 Paper | Accuracy  |   F1  |   Precision  |   Recall  | Data Size
