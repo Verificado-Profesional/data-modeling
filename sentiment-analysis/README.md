@@ -30,7 +30,7 @@ Modelo |   Accuracy  |   Loss  |   F1  |   Precision  |   Recall
 _RNN TF_ | _77,07%_ | 0.5227 | _77%_ |   _77%_ | _77%_
 _Bert Base Uncased_ | _78.53%_ | - | _78.52%_ |   _78.67%_ | _78.61%_
 _Multilingual Bert Uncased_ | _82.58%_ | - | _82.58%_ |   _82.57%_ | _82.59%_
-_Spanish Bert Uncased_ | _85.50%_ | - | _85.49%_ |   _85.50%_ | _85.52%_
+_Spanish Bert Uncased_ | _85.60%_ | - | _85.59%_ |   _85.59%_ | _85.63%_
 _Spanish Bert Cased_ | _86.32%_ | - | _86.32%_ |   _86.32%_ | _86.33%_
 
 
