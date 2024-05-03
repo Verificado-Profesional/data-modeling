@@ -31,7 +31,7 @@ _RNN TF_ | _77,07%_ | 0.5227 | _77%_ |   _77%_ | _77%_
 _Bert Base Uncased_ | _78.53%_ | - | _78.52%_ |   _78.67%_ | _78.61%_
 _Multilingual Bert Uncased_ | _82.58%_ | - | _82.58%_ |   _82.57%_ | _82.59%_
 _Spanish Bert Uncased_ | _86.47%_ | - | _86.47%_ |   _86.46%_ | _86.51%_
-_Spanish Bert Cased_ | _86.32%_ | - | _86.32%_ |   _86.32%_ | _86.33%_
+_Spanish Bert Cased_ | _86.60%_ | - | _86.60%_ |   _86.59%_ | _86.62%_
 
 
 #### Clasificación Multiclase: [Negativo - Neutral - Positivo]
