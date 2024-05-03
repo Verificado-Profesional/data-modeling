@@ -29,6 +29,8 @@ Modelo |   Accuracy  |   Loss  |   F1  |   Precision  |   Recall
 ------ |  -------------|  ------|  ------|  ------|  ------
 _RNN TF_ | _77,07%_ | 0.5227 | _77%_ |   _77%_ | _77%_
 _Spanish Bert Uncased_ | _85.50%_ | - | _85.49%_ |   _85.50%_ | _85.52%_
+_Spanish Bert Cased_ | _86.32%_ | - | _86.32%_ |   _86.32%_ | _86.33%_
+
 
 #### Clasificación Multiclase: [Negativo - Neutral - Positivo]
 Modelo |   Accuracy  |   Loss  |   F1  |   Precision  |   Recall |  
